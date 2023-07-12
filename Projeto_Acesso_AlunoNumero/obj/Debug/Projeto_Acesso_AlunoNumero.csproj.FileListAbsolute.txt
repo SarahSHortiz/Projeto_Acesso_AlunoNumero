@@ -1,0 +1,11 @@
+C:\Users\Sarah Hortiz\Desktop\atividade_DS\Projeto_Acesso_AlunoNumero\Projeto_Acesso_AlunoNumero\bin\Debug\Projeto_Acesso_AlunoNumero.exe.config
+C:\Users\Sarah Hortiz\Desktop\atividade_DS\Projeto_Acesso_AlunoNumero\Projeto_Acesso_AlunoNumero\bin\Debug\Projeto_Acesso_AlunoNumero.exe
+C:\Users\Sarah Hortiz\Desktop\atividade_DS\Projeto_Acesso_AlunoNumero\Projeto_Acesso_AlunoNumero\bin\Debug\Projeto_Acesso_AlunoNumero.pdb
+C:\Users\Sarah Hortiz\Desktop\atividade_DS\Projeto_Acesso_AlunoNumero\Projeto_Acesso_AlunoNumero\obj\Debug\Projeto_Acesso_AlunoNumero.csproj.AssemblyReference.cache
+C:\Users\Sarah Hortiz\Desktop\atividade_DS\Projeto_Acesso_AlunoNumero\Projeto_Acesso_AlunoNumero\obj\Debug\Projeto_Acesso_AlunoNumero.frmLogin.resources
+C:\Users\Sarah Hortiz\Desktop\atividade_DS\Projeto_Acesso_AlunoNumero\Projeto_Acesso_AlunoNumero\obj\Debug\Projeto_Acesso_AlunoNumero.Properties.Resources.resources
+C:\Users\Sarah Hortiz\Desktop\atividade_DS\Projeto_Acesso_AlunoNumero\Projeto_Acesso_AlunoNumero\obj\Debug\Projeto_Acesso_AlunoNumero.csproj.GenerateResource.cache
+C:\Users\Sarah Hortiz\Desktop\atividade_DS\Projeto_Acesso_AlunoNumero\Projeto_Acesso_AlunoNumero\obj\Debug\Projeto_Acesso_AlunoNumero.csproj.CoreCompileInputs.cache
+C:\Users\Sarah Hortiz\Desktop\atividade_DS\Projeto_Acesso_AlunoNumero\Projeto_Acesso_AlunoNumero\obj\Debug\Projeto_Acesso_AlunoNumero.exe
+C:\Users\Sarah Hortiz\Desktop\atividade_DS\Projeto_Acesso_AlunoNumero\Projeto_Acesso_AlunoNumero\obj\Debug\Projeto_Acesso_AlunoNumero.pdb
+C:\Users\Sarah Hortiz\Desktop\atividade_DS\Projeto_Acesso_AlunoNumero\Projeto_Acesso_AlunoNumero\obj\Debug\Projeto_Acesso_AlunoNumero.Formulário_Principal.resources
